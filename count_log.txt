@@ -1,0 +1,405 @@
+Image list:./data/cells1
+config:
+hsv_low:[100, 20, 50]|hsv_up:[200, 250, 150]
+	min_cell_area:100|good_cell_area:30
+	adjust_ratio_low:0.1|adjust_ratio_up:0.0005
+cell label num:[187, 296, 308]
+cell count num:[185, 299, 202]
+cell count err:[0.01 0.01 0.34]
+mean error:0.12
+
+Image list:./data/cells1
+config:
+hsv_low:[100, 20, 50]|hsv_up:[200, 250, 150]
+	min_cell_area:100|good_cell_area:40
+	adjust_ratio_low:0.1|adjust_ratio_up:0.0005
+cell label num:[187, 296, 308]
+cell count num:[185, 299, 193]
+cell count err:[0.01 0.01 0.37]
+mean error:0.13
+
+Image list:./data/cells1
+config:
+min_cell_area:100|max_cell_area:2500
+hsv_low:[100, 20, 50]|hsv_up:[200, 250, 150]
+	min_cell_area:100|good_cell_area:40
+	adjust_ratio_low:0.1|adjust_ratio_up:0.0005
+cell label num:[187, 296, 308]
+cell count num:[185, 301, 193]
+cell count err:[0.01 0.02 0.37]
+mean error:0.133
+
+Image list:./data/cells1
+config:
+min_cell_area:100|max_cell_area:5000
+hsv_low:[100, 20, 50]|hsv_up:[200, 250, 150]
+	min_cell_area:100|good_cell_area:40
+	adjust_ratio_low:0.1|adjust_ratio_up:0.0005
+cell label num:[187, 296, 308]
+cell count num:[185, 294, 204]
+cell count err:[0.01 0.01 0.34]
+mean error:0.12
+
+Image list:./data/cells1
+config:
+min_cell_area:100|max_cell_area:5000
+hsv_low:[100, 20, 50]|hsv_up:[200, 250, 150]
+	min_cell_area:100|good_cell_area:40
+	adjust_ratio_low:0.1|adjust_ratio_up:0.0005
+cell label num:[187, 296, 308]
+cell count num:[192, 295, 317]
+cell count err:[0.03 0.   0.03]
+mean error:0.02
+
+Image list:./data/cells2
+config:
+min_cell_area:100|max_cell_area:4000
+hsv_low:[100, 20, 50]|hsv_up:[200, 250, 150]
+	min_cell_area:100|good_cell_area:40
+	adjust_ratio_low:0.02|adjust_ratio_up:0.0002
+cell label num:[177, 216, 219, 322, 330, 355]
+cell count num:[74, 136, 163, 297, 320, 248]
+cell count err:[0.58 0.37 0.26 0.08 0.03 0.3 ]
+mean error:0.27
+
+Image list:./data/cells2
+config:
+min_cell_area:100|max_cell_area:4000
+hsv_low:[100, 20, 50]|hsv_up:[200, 250, 150]
+	min_cell_area:100|good_cell_area:40
+	adjust_ratio_low:0.02|adjust_ratio_up:0.0002
+cell label num:[177, 216, 219, 322, 330, 355]
+cell count num:[74, 141, 161, 294, 316, 251]
+cell count err:[0.58 0.35 0.26 0.09 0.04 0.29]
+mean error:0.268
+
+Image list:./data/cells2
+config:
+min_cell_area:100|max_cell_area:4000
+hsv_low:[100, 20, 50]|hsv_up:[200, 250, 200]
+	min_cell_area:100|good_cell_area:40
+	adjust_ratio_low:0.02|adjust_ratio_up:0.0002
+cell label num:[177, 216, 219, 322, 330, 355]
+cell count num:[115, 222, 233, 302, 334, 340]
+cell count err:[0.35 0.03 0.06 0.06 0.01 0.04]
+mean error:0.092
+
+Image list:./data/cells1
+config:
+min_cell_area:100|max_cell_area:5000
+hsv_low:[100, 20, 50]|hsv_up:[200, 250, 150]
+	min_cell_area:100|good_cell_area:40
+	adjust_ratio_low:0.1|adjust_ratio_up:0.0005
+cell label num:[187, 296, 308]
+cell count num:[192, 295, 317]
+cell count err:[0.03 0.   0.03]
+mean error:0.02
+
+Image list:./data/cells1
+config:
+min_cell_area:100|max_cell_area:5000
+hsv_low:[128, 88, 101]|hsv_up:[177, 253, 175]
+	min_cell_area:100|good_cell_area:40
+	adjust_ratio_low:0.1|adjust_ratio_up:0.0005
+cell label num:[187, 296, 308]
+cell count num:[164, 249, 217]
+cell count err:[0.12 0.16 0.3 ]
+mean error:0.193
+
+Image list:./data/cells2
+config:
+min_cell_area:100|max_cell_area:5000
+hsv_low:[101, 20, 113]|hsv_up:[172, 253, 190]
+	min_cell_area:100|good_cell_area:40
+	adjust_ratio_low:0.1|adjust_ratio_up:0.0005
+cell label num:[177, 216, 219, 322, 330, 355]
+cell count num:[66, 171, 149, 249, 277, 283]
+cell count err:[0.63 0.21 0.32 0.23 0.16 0.2 ]
+mean error:0.292
+
+Image list:./data/cells2
+config:
+min_cell_area:56.25|max_cell_area:257.75
+hsv_low:[101, 20, 113]|hsv_up:[172, 253, 190]
+	min_cell_area:56.25|good_cell_area:40
+	adjust_ratio_low:0.1|adjust_ratio_up:0.0005
+cell label num:[177, 216, 219, 322, 330, 355]
+cell count num:[163, 286, 276, 304, 318, 349]
+cell count err:[0.08 0.32 0.26 0.06 0.04 0.02]
+mean error:0.13
+
+Image list:./data/cells2
+config:
+min_cell_area:56.25|max_cell_area:257.75
+hsv_low:[101, 20, 113]|hsv_up:[172, 253, 190]
+	min_cell_area:56.25|good_cell_area:40
+	adjust_ratio_low:0.5|adjust_ratio_up:0.5
+cell label num:[177, 216, 219, 322, 330, 355]
+cell count num:[119, 189, 169, 198, 189, 207]
+cell count err:[0.33 0.12 0.23 0.39 0.43 0.42]
+mean error:0.32
+
+Image list:./data/cells2
+config:
+min_cell_area:56.25|max_cell_area:257.75
+hsv_low:[101, 20, 113]|hsv_up:[172, 253, 190]
+	min_cell_area:56.25|good_cell_area:40
+	adjust_ratio_low:0.2|adjust_ratio_up:0.5
+cell label num:[177, 216, 219, 322, 330, 355]
+cell count num:[119, 193, 181, 202, 198, 212]
+cell count err:[0.33 0.11 0.17 0.37 0.4  0.4 ]
+mean error:0.297
+
+Image list:./data/cells2
+config:
+min_cell_area:56.25|max_cell_area:257.75
+hsv_low:[101, 20, 113]|hsv_up:[172, 253, 190]
+	min_cell_area:56.25|good_cell_area:40
+	adjust_ratio_low:0.15|adjust_ratio_up:0.5
+cell label num:[177, 216, 219, 322, 330, 355]
+cell count num:[120, 196, 184, 204, 201, 214]
+cell count err:[0.32 0.09 0.16 0.37 0.39 0.4 ]
+mean error:0.288
+
+Image list:./data/cells2
+config:
+min_cell_area:56.25|max_cell_area:257.75
+hsv_low:[101, 20, 113]|hsv_up:[172, 253, 190]
+	min_cell_area:56.25|good_cell_area:40
+	adjust_ratio_low:0.1|adjust_ratio_up:0.5
+cell label num:[177, 216, 219, 322, 330, 355]
+cell count num:[120, 196, 184, 209, 205, 224]
+cell count err:[0.32 0.09 0.16 0.35 0.38 0.37]
+mean error:0.278
+
+Image list:./data/cells2
+config:
+min_cell_area:56.25|max_cell_area:257.75
+hsv_low:[101, 20, 113]|hsv_up:[172, 253, 190]
+	min_cell_area:56.25|good_cell_area:40
+	adjust_ratio_low:0.1|adjust_ratio_up:0.05
+cell label num:[177, 216, 219, 322, 330, 355]
+cell count num:[142, 249, 235, 245, 249, 283]
+cell count err:[0.2  0.15 0.07 0.24 0.25 0.2 ]
+mean error:0.185
+
+Image list:./data/cells2
+config:
+min_cell_area:56.25|max_cell_area:257.75
+hsv_low:[101, 20, 113]|hsv_up:[172, 253, 190]
+	min_cell_area:56.25|good_cell_area:40
+	adjust_ratio_low:0.1|adjust_ratio_up:0.01
+cell label num:[177, 216, 219, 322, 330, 355]
+cell count num:[149, 266, 258, 295, 300, 332]
+cell count err:[0.16 0.23 0.18 0.08 0.09 0.06]
+mean error:0.133
+
+Image list:./data/cells2
+config:
+min_cell_area:56.25|max_cell_area:257.75
+hsv_low:[101, 20, 113]|hsv_up:[172, 253, 190]
+	min_cell_area:56.25|good_cell_area:40
+	adjust_ratio_low:0.1|adjust_ratio_up:0.005
+cell label num:[177, 216, 219, 322, 330, 355]
+cell count num:[156, 267, 261, 300, 312, 345]
+cell count err:[0.12 0.24 0.19 0.07 0.05 0.03]
+mean error:0.117
+
+Image list:./data/cells2
+config:
+min_cell_area:56.25|max_cell_area:257.75
+hsv_low:[101, 20, 113]|hsv_up:[172, 253, 190]
+	min_cell_area:56.25|good_cell_area:40
+	adjust_ratio_low:0.1|adjust_ratio_up:0.001
+cell label num:[177, 216, 219, 322, 330, 355]
+cell count num:[158, 294, 273, 300, 316, 350]
+cell count err:[0.11 0.36 0.25 0.07 0.04 0.01]
+mean error:0.14
+
+Image list:./data/cells1
+config:
+min_cell_area:124.5|max_cell_area:527.875
+hsv_low:[128, 88, 101]|hsv_up:[177, 253, 175]
+	min_cell_area:124.5|good_cell_area:40
+	adjust_ratio_low:0.1|adjust_ratio_up:0.001
+cell label num:[187, 296, 308]
+cell count num:[164, 228, 207]
+cell count err:[0.12 0.23 0.33]
+mean error:0.227
+
+Image list:./data/cells1
+config:
+min_cell_area:124.5|max_cell_area:527.875
+hsv_low:[128, 88, 101]|hsv_up:[177, 253, 175]
+	min_cell_area:124.5|good_cell_area:40
+	adjust_ratio_low:0.01|adjust_ratio_up:0.001
+cell label num:[187, 296, 308]
+cell count num:[188, 261, 241]
+cell count err:[0.01 0.12 0.22]
+mean error:0.117
+
+Image list:./data/cells1
+config:
+min_cell_area:124.5|max_cell_area:527.875
+hsv_low:[128, 88, 101]|hsv_up:[177, 253, 175]
+	min_cell_area:124.5|good_cell_area:40
+	adjust_ratio_low:0.01|adjust_ratio_up:0.0001
+cell label num:[187, 296, 308]
+cell count num:[192, 261, 241]
+cell count err:[0.03 0.12 0.22]
+mean error:0.123
+
+Image list:./data/cells1
+config:
+min_cell_area:124.5|max_cell_area:527.875
+hsv_low:[128, 88, 101]|hsv_up:[177, 253, 175]
+	min_cell_area:124.5|good_cell_area:30
+	adjust_ratio_low:0.01|adjust_ratio_up:0.0001
+cell label num:[187, 296, 308]
+cell count num:[195, 263, 246]
+cell count err:[0.04 0.11 0.2 ]
+mean error:0.117
+
+Image list:./data/cells1
+config:
+min_cell_area:124.5|max_cell_area:527.875
+hsv_low:[128, 88, 101]|hsv_up:[177, 253, 175]
+	min_cell_area:124.5|good_cell_area:30
+	adjust_ratio_low:0.01|adjust_ratio_up:0.0001
+cell label num:[187, 296, 308]
+cell count num:[195, 274, 246]
+cell count err:[0.04 0.07 0.2 ]
+mean error:0.103
+
+Image list:./data/cells1
+config:
+min_cell_area:124.5|max_cell_area:527.875
+hsv_low:[128, 88, 101]|hsv_up:[177, 253, 175]
+	min_cell_area:124.5|good_cell_area:30
+	adjust_ratio_low:0.01|adjust_ratio_up:0.0001
+cell label num:[187, 296, 308]
+cell count num:[195, 274, 246]
+cell count err:[0.04 0.07 0.2 ]
+mean error:0.103
+
+Image list:./data/cells1
+config:
+min_cell_area:124.5|max_cell_area:527.875
+hsv_low:[128, 88, 101]|hsv_up:[177, 253, 175]
+	min_cell_area:124.5|good_cell_area:30
+	adjust_ratio_low:[0.4, 0.2, 0.4]|adjust_ratio_up:[0.04, 0.02, 0.04]
+cell label num:[187, 296, 308]
+cell count num:[194, 274, 243]
+cell count err:[0.04 0.07 0.21]
+mean error:0.107
+
+Image list:./data/cells2
+config:
+min_cell_area:56.25|max_cell_area:257.75
+hsv_low:[101, 20, 113]|hsv_up:[172, 253, 190]
+	min_cell_area:56.25|good_cell_area:30
+	adjust_ratio_low:[0.4, 0.2, 0.4]|adjust_ratio_up:[0.04, 0.02, 0.04]
+cell label num:[177, 216, 219, 322, 330, 355]
+cell count num:[169, 289, 266, 327, 347, 365]
+cell count err:[0.05 0.34 0.21 0.02 0.05 0.03]
+mean error:0.117
+
+Image list:./data/cells2
+config:
+min_cell_area:56.25|max_cell_area:257.75
+hsv_low:[101, 20, 113]|hsv_up:[172, 253, 190]
+	min_cell_area:56.25|good_cell_area:30
+	adjust_ratio_low:[0.4, 0.1, 0.4]|adjust_ratio_up:[0.04, 0.02, 0.04]
+cell label num:[177, 216, 219, 322, 330, 355]
+cell count num:[169, 289, 266, 327, 347, 365]
+cell count err:[0.05 0.34 0.21 0.02 0.05 0.03]
+mean error:0.117
+
+Image list:./data/cells2
+config:
+min_cell_area:56.25|max_cell_area:257.75
+hsv_low:[101, 20, 113]|hsv_up:[172, 253, 190]
+	min_cell_area:56.25|good_cell_area:30
+	adjust_ratio_low:[0.4, 0.1, 0.4]|adjust_ratio_up:[0.04, 0.01, 0.04]
+cell label num:[177, 216, 219, 322, 330, 355]
+cell count num:[169, 289, 266, 327, 347, 365]
+cell count err:[0.05 0.34 0.21 0.02 0.05 0.03]
+mean error:0.117
+
+Image list:./data/cells2
+config:
+min_cell_area:56.25|max_cell_area:257.75
+hsv_low:[101, 20, 113]|hsv_up:[172, 253, 190]
+	min_cell_area:56.25|good_cell_area:40
+	adjust_ratio_low:[0.4, 0.1, 0.4]|adjust_ratio_up:[0.04, 0.05, 0.04]
+cell label num:[177, 216, 219, 322, 330, 355]
+cell count num:[165, 272, 252, 314, 335, 353]
+cell count err:[0.07 0.26 0.15 0.02 0.02 0.01]
+mean error:0.088
+
+Image list:./data/cells2
+config:
+min_cell_area:56.25|max_cell_area:257.75
+hsv_low:[101, 20, 113]|hsv_up:[172, 253, 190]
+	min_cell_area:56.25|good_cell_area:50
+	adjust_ratio_low:[0.4, 0.1, 0.4]|adjust_ratio_up:[0.04, 0.05, 0.04]
+cell label num:[177, 216, 219, 322, 330, 355]
+cell count num:[160, 262, 233, 295, 320, 337]
+cell count err:[0.1  0.21 0.06 0.08 0.03 0.05]
+mean error:0.088
+
+Image list:./data/cells1
+config:
+min_cell_area:124.5|max_cell_area:527.875
+hsv_low:[128, 88, 101]|hsv_up:[177, 253, 175]
+	min_cell_area:124.5|good_cell_area:50
+	adjust_ratio_low:[0.4, 0.1, 0.4]|adjust_ratio_up:[0.04, 0.05, 0.04]
+cell label num:[187, 296, 308]
+cell count num:[184, 259, 233]
+cell count err:[0.02 0.12 0.24]
+mean error:0.127
+
+Image list:./data/cells1
+config:
+min_cell_area:124.5|max_cell_area:527.875
+hsv_low:[128, 88, 101]|hsv_up:[177, 253, 175]
+	min_cell_area:124.5|good_cell_area:40
+	adjust_ratio_low:[0.4, 0.1, 0.4]|adjust_ratio_up:[0.04, 0.05, 0.04]
+cell label num:[187, 296, 308]
+cell count num:[188, 269, 239]
+cell count err:[0.01 0.09 0.22]
+mean error:0.107
+
+Image list:./data/cells1
+config:
+min_cell_area:124.5|max_cell_area:527.875
+hsv_low:[128, 88, 101]|hsv_up:[177, 253, 175]
+	min_cell_area:124.5|good_cell_area:40
+	adjust_ratio_low:[0.4, 0.1, 0.4]|adjust_ratio_up:[0.04, 0.05, 0.04]
+cell label num:[187, 296, 308]
+cell count num:[188, 269, 239]
+cell count err:[0.01 0.09 0.22]
+mean error:0.107
+
+Image list:./data/cells1
+config:
+min_cell_area:124.5|max_cell_area:527.875
+hsv_low:[128, 88, 101]|hsv_up:[177, 253, 175]
+	min_cell_area:124.5|good_cell_area:40
+	adjust_ratio_low:[0.4, 0.1, 0.4]|adjust_ratio_up:[0.04, 0.05, 0.04]
+cell label num:[187, 296, 308]
+cell count num:[188, 269, 239]
+cell count err:[0.01 0.09 0.22]
+mean error:0.107
+
+Image list:./data/cells2
+config:
+min_cell_area:56.25|max_cell_area:257.75
+hsv_low:[101, 20, 113]|hsv_up:[172, 253, 190]
+	min_cell_area:56.25|good_cell_area:40
+	adjust_ratio_low:[0.4, 0.1, 0.4]|adjust_ratio_up:[0.04, 0.05, 0.04]
+cell label num:[177, 216, 219, 322, 330, 355]
+cell count num:[165, 272, 252, 314, 335, 353]
+cell count err:[0.07 0.26 0.15 0.02 0.02 0.01]
+mean error:0.088
+

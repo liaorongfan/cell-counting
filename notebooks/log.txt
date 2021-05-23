@@ -1,0 +1,18 @@
+Image list:cells1
+HSV config:[100, 20, 50]/[200, 250, 150]
+cell label num:[187, 296, 308, 313]
+cell count num:[212, 345, 342, 0]
+cell count err:[0.13 0.17 0.11 1.  ]
+
+Image list:cells1
+HSV config:[100, 20, 50]/[200, 250, 150]
+cell label num:[187, 296, 308]
+cell count num:[212, 345, 342]
+cell count err:[0.13 0.17 0.11]
+
+Image list:cells3
+HSV config:[100, 20, 50]/[200, 250, 150]
+cell label num:[177, 216, 219, 322, 330, 355]
+cell count num:[82, 149, 154, 276, 312, 239]
+cell count err:[0.54 0.31 0.3  0.14 0.05 0.33]
+
